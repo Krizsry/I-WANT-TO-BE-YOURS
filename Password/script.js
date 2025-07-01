@@ -1,7 +1,7 @@
 const container = document.querySelector(".container");
 const hiddenInput = document.querySelector(".hidden-input");
 const revealedInput = document.querySelector(".revealed-input");
-const button = document.querySelector(".button");
+const button = document.querySelector(".button"); 
 
 const correctPassword = "12/13/2009"; // Set the correct password
 const redirectUrl = "https://app.sane.fyi/s/81bdf3ce-cb28-11ef-aaac-4387590202eb?t=bvdOPWxms5ghdxfbH2YE&utm_source=share-menu&utm_medium=web"; // Set the redirect URL
